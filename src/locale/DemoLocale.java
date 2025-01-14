@@ -1,4 +1,4 @@
-package demo_locale;
+package locale;
 
 import java.util.Locale;
 

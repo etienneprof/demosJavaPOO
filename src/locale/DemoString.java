@@ -1,4 +1,4 @@
-package demo_locale;
+package locale;
 
 public class DemoString {
 	public static void main(String[] args) {
